@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "nome": "João Kuhn",
+        "perfil": "Moderado",
+        "saldo_investido": 8500.00,
+        "interesses": ["Fundos Imobiliários", "CDB", "Ações de Tecnologia"]
+    },
+    {
+        "id": 2,
+        "nome": "Marina Silva",
+        "perfil": "Conservador",
+        "saldo_investido": 45000.00,
+        "interesses": ["Tesouro Direto", "LCI", "LCA"]
+    },
+    {
+        "id": 3,
+        "nome": "Carlos Eduardo",
+        "perfil": "Arrojado",
+        "saldo_investido": 3200.00,
+        "interesses": ["Criptomoedas", "Mercado Internacional", "Day Trade"]
+    },
+    {
+        "id": 4,
+        "nome": "Ana Clara",
+        "perfil": "Moderado",
+        "saldo_investido": 15400.50,
+        "interesses": ["Ações que pagam Dividendos", "Previdência Privada"]
+    },
+    {
+        "id": 5,
+        "nome": "Lucas Pereira",
+        "perfil": "Arrojado",
+        "saldo_investido": 120000.00,
+        "interesses": ["Venture Capital", "BDRs", "Startups"]
+    }
+]
